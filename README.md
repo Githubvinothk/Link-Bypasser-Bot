@@ -19,6 +19,7 @@ a Telegram Bot that can Bypass Ad Links and Generate Direct Links. see the Bot i
 - `KATDRIVE_CRYPT` Your KATDRIVE Crypt!
 - `UPTOBOX_TOKEN` your UPTOBOX Token
 
+https://app.koyeb.com/deploy?type=git&repository=github.com/Githubvinothk/Link-Bypasser-Bot&branch=koyeb&name=urlshortautofilterbot
 ---
 
 ## Commands to Set for the Bot @BotFather
